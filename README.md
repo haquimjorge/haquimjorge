@@ -17,7 +17,9 @@
 <div align="center">
   <a href="https://github.com/haquimjorge">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=haquimjorge&&show_icons=true&title_color=ffffff&icon_color=368C90&text_color=daf7dc&bg_color=DAC03C"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=haquimjorge&show_icons=true&theme=gruvbox"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haquimjorge&theme=gruvbox"/>
+    
 </div>
 
 ##
