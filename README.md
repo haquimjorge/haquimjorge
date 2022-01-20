@@ -1,9 +1,9 @@
 ### Hi there, I'm Jorge Haquim 👋 
 
-## I'm an Associate of Computer Systems Analysts student and a Full Stack Developer in process!!
+## I'm a Full Stack Developer MERN & Mobile and an Associate of Computer Systems Analysts student!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
-- 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
+- 🥅 2022 Goals: Learning blockchain technologies
 - 👀 I’m interesting in Web and Mobile projects
 
 ##
