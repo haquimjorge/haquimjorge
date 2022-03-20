@@ -1,6 +1,6 @@
-### Hi there, I'm Jorge Haquim 👋 
+### Hi there, I'm Jorge Haquim based in Buenos Aires 👋 
 
-## I'm a Full Stack MERN & Mobile Developer and an Associate of Computer Systems Analysts student!!
+## I'm a Full Stack & Mobile Developer and an Associate of Computer Systems Analysts student!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2022 Goals: Learning blockchain technologies
